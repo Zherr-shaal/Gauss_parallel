@@ -1,0 +1,7 @@
+﻿  ПСРСЛаба3.1.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\matt\source\repos\псрслаба3.1\псрслаба3.1\псрслаба3.1.cpp(144): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ПСРСЛаба3.1.vcxproj -> C:\Users\Matt\source\repos\ПСРСЛаба3.1\x64\Release\ПСРСЛаба3.1.exe
